@@ -26,6 +26,7 @@ public class Assets {
 	private static void preload() {
 		assetManager.load("bootstrap.atlas", TextureAtlas.class);
 		assetManager.finishLoading();
+		
 	}
 
 	/**
